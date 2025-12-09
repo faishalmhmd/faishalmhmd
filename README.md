@@ -1,7 +1,6 @@
 ### Muhamad Faishal Azizi
 Web Developer
 West Bandung, Padalarang
-<a> href </a>
 
 ### Summary
 Detail-oriented Front-End Developer with 3 years of experience in building interactive and responsive web applications. Proficient in React, Vue, Node.js, Tailwind CSS, HTML5, and CSS3. Contributed to multiple projects that significantly improved user engagement and overall site functionality. Known for writing clean, maintainable code and optimizing site performance.
